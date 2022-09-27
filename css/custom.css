@@ -22,9 +22,6 @@ h4 {
 header {
 
 
-
-
-
     padding: 20px 0 0 0;
     background: white;
     text-align: center;
@@ -50,7 +47,7 @@ ul {
 }
 
 #hero {
-    background-image: url(../img/banner.jpg);
+    background-image: url(../img/portada1.png);
     height: 350px;
     background-size: cover;
 }
@@ -129,7 +126,7 @@ ul {
     /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to right, #0f3668 0%, #faf60f 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#741d51', endColorstr='#e44e52', GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#741d51', endColorstr='#e44e52', GradientType=10);
     /* IE6-9 */
 }
 
